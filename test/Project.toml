@@ -1,0 +1,4 @@
+[deps]
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+KissConv = "4d28d247-ef08-4c3a-9776-7d56a347b6c0"

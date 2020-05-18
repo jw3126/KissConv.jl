@@ -3,6 +3,9 @@ uuid = "4d28d247-ef08-4c3a-9776-7d56a347b6c0"
 authors = ["Jan Weidner <jw3126@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+
 [compat]
 julia = "1"
 
