@@ -34,6 +34,7 @@ uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 version = "0.21.0"
 
 [[KissConv]]
+deps = ["OffsetArrays"]
 path = ".."
 uuid = "4d28d247-ef08-4c3a-9776-7d56a347b6c0"
 version = "0.1.0"
@@ -54,6 +55,11 @@ uuid = "d6f4376e-aef5-505a-96c1-9c027394607a"
 
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
+
+[[OffsetArrays]]
+git-tree-sha1 = "930db8ef90483570107f2396b1ffc6680f08e8b7"
+uuid = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+version = "1.0.4"
 
 [[Parsers]]
 deps = ["Dates", "Test"]
